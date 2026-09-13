@@ -1,0 +1,6 @@
+{
+  "name": "Aidly",
+  "description": "Aidly provides clear, educational first-aid guidance for common emergencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
